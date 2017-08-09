@@ -12,6 +12,10 @@ body {
     font-size: 200%;
 }
 
+.text-small{
+    font-size: 100%;
+}
+
 .bold {
     font-weight: bold;
 }
